@@ -7,3 +7,4 @@ En la presente aplicación se comparten los lineamientos de desarrollo para cada
 ### Manuales
 
 > #### [Manual diseño de base de datos](content/db/)
+> #### [Manual creación de tableros de control con Looker Studio de Google](content/lookerstudio/)
